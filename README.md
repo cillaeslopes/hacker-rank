@@ -12,7 +12,7 @@ If you want to talk to me [send me an email](cillaeslopes@gmail.com)
 ### Exercises:
 | Exercise | Solution |
 |--|--|
-| [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem) | [Dijkstra Solution](https://github.com/cillaeslopes/hacker-rank/blob/master/dijkstra.py) |
+| [BFS: Shortest Reach in a Graph](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem) | [Dijkstra](https://github.com/cillaeslopes/hacker-rank/blob/master/dijkstra.py) |
 | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) | [Binary Tree](https://github.com/cillaeslopes/hacker-rank/blob/master/binary-tree.py) |
-| [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) | [Level Order](https://github.com/cillaeslopes/hacker-rank/blob/master/level-order.py) |
-| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Balanced Brackets](https://github.com/cillaeslopes/hacker-rank/blob/master/balanced-brackets.py) |
+| [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) | [Binary Tree](https://github.com/cillaeslopes/hacker-rank/blob/master/level-order.py) |
+| [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem) | [Stack](https://github.com/cillaeslopes/hacker-rank/blob/master/balanced-brackets.py) |
